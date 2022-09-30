@@ -2,6 +2,7 @@
 I) Environment Setup
 
 	1) Install AWS CLI on local windows machine 
+    
 	2) Install eksctl  on local windows machine 
 	 
 	3) Installing Chocolatey on local windows machine 
